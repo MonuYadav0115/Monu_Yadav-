@@ -20,6 +20,10 @@ export function Skills() {
 
     { name: "React.js", hoverText: "Component-based frontend library", category: "frontend", iconUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
 
+    { name: "TypeScript", hoverText: "Strongly typed superset of JavaScript", category: "frontend",iconUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"},
+
+    { 
+  name: "Bootstrap",hoverText: "Popular CSS framework for responsive and mobile-first design",category: "frontend",iconUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" }, 
 
     { name: "Node.js", hoverText: "JavaScript runtime", category: "backend", iconUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
 

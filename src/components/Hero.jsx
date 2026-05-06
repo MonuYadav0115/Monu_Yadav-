@@ -1,6 +1,6 @@
 import { Download, Handshake, ChevronDown } from "lucide-react";
 import { motion } from "framer-motion";
-import resumeFile from "../assets/Monu_Yadav.pdf";
+import resumeFile from "../assets/Monu_Yadav (4).pdf";
 
 const skills = [
   { name: "MongoDB", url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
@@ -124,7 +124,7 @@ export default function Hero() {
         >
           <a
             href={resumeFile}
-            download="Monu_Yadav.pdf"
+            download="Monu_Yadav(4).pdf"
             className="flex items-center gap-2 px-6 py-3 rounded-lg font-medium
             bg-gradient-to-r from-orange-500 to-pink-500 text-white
             shadow-lg hover:shadow-orange-500/40 hover:scale-105 transition-all duration-300"
